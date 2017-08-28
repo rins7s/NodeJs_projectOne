@@ -1,0 +1,12 @@
+{
+    "name": "serverprj",
+    "version": "1.0.0",
+    "description": "simple webserver\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D \u001b[C\u001b[C\u001b[D\u001b[Dserver",
+    "main": "server.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node server.js"
+    },
+    "author": "sample",
+    "license": "ISC"
+}
